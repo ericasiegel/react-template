@@ -14,7 +14,7 @@
 - User model is in place
 - Thought and Reaction examples
 - _**Query**_ allows you to find all users, get a user by username, get all thoughts, get all thoughts by username, and/or get thoughts by ID
-
+- _**Mutation**_ has login and add user setup
 
 ### resolvers
 - Lists the *queries* and *mutations* and the **CRUD** methods
