@@ -10,8 +10,11 @@
 ## Server Folder
 ### typeDefs
 - Define the models using `type ModelName {}`
-- creates queries to the database for **CRUD** requests
+- Creates queries to the database for **CRUD** requests
+- User model is in place
+- Thought and Reaction examples
 - _**Query**_ allows you to find all users, get a user by username, get all thoughts, get all thoughts by username, and/or get thoughts by ID
+
 
 ### resolvers
 - Lists the *queries* and *mutations* and the **CRUD** methods
